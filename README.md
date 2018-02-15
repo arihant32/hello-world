@@ -1,2 +1,2 @@
 # hello-world
-My first c code on github
+My first c code on github.
